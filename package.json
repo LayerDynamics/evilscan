@@ -33,7 +33,7 @@
     "qjobs": "1.2.0"
   },
   "devDependencies": {
-    "sol-telnet": "0.1.1",
+ 
     "tape": "5.5.2"
   }
 }

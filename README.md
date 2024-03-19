@@ -152,7 +152,7 @@ Options
                   default console
 
   --infile        fetch fqdn/ipv4/ipv6 target from a file
-  
+
   --outfile       dump result in a file
 
   --json          shortcut for --display=json
@@ -229,3 +229,9 @@ You can pause/unpause a running scan by sending SIGUSR2 signal. First time it wi
 ```
 kill -SIGUSR2 19859 # where 19859 is the pid of nodejs process running evilscan
 ```
+
+
+
+-----
+
+removed    "sol-telnet": "0.1.1" from dev dependencies 
